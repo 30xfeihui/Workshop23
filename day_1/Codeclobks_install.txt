@@ -1,0 +1,5 @@
+Dwonload:
+	https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe
+
+Installation Video:
+	https://youtu.be/zIhhO2DcW2s
