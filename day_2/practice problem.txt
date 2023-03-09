@@ -1,0 +1,28 @@
+Beecrowd (Beginner):
+	https://www.beecrowd.com.br/judge/en/problems/view/1001
+	https://www.beecrowd.com.br/judge/en/problems/view/1002
+	https://www.beecrowd.com.br/judge/en/problems/view/1003
+	https://www.beecrowd.com.br/judge/en/problems/view/1004
+	https://www.beecrowd.com.br/judge/en/problems/view/1005
+	https://www.beecrowd.com.br/judge/en/problems/view/1006
+	https://www.beecrowd.com.br/judge/en/problems/view/1007
+	https://www.beecrowd.com.br/judge/en/problems/view/1008
+	https://www.beecrowd.com.br/judge/en/problems/view/1009
+
+
+Atcoder (Intermediate):
+	https://atcoder.jp/contests/abc106/tasks/abc106_a
+	https://atcoder.jp/contests/abc107/tasks/abc107_a
+	https://atcoder.jp/contests/abc108/tasks/abc108_a
+	https://atcoder.jp/contests/abc113/tasks/abc113_a
+	https://atcoder.jp/contests/abc116/tasks/abc116_a
+	https://atcoder.jp/contests/abc117/tasks/abc117_a
+	https://atcoder.jp/contests/abc121/tasks/abc121_a
+	https://atcoder.jp/contests/abc178/tasks/abc178_a
+	https://atcoder.jp/contests/abc180/tasks/abc180_a
+	https://atcoder.jp/contests/abc182/tasks/abc182_a
+	https://atcoder.jp/contests/abc184/tasks/abc184_a
+	https://atcoder.jp/contests/abc186/tasks/abc186_a
+	https://atcoder.jp/contests/abc193/tasks/abc193_a
+	https://atcoder.jp/contests/abc196/tasks/abc196_a
+	https://atcoder.jp/contests/abc198/tasks/abc198_a	
