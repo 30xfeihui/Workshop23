@@ -12,3 +12,4 @@ Day 2 topic:
   2. scanf() function and format specifier
   3. Type casting
   4. math.h header files
+  5. Practice problems
