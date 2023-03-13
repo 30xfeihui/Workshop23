@@ -13,3 +13,6 @@ Day 2 topic:
   3. Type casting
   4. math.h header files
   5. Practice problems
+Day 3 topic:
+  1. Condition
+  2. Practice Problem
